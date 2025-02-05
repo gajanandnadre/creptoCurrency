@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(16, 16, 78);
+    font-family: "", sans-serif;
+
+    width: 100%;
+    /* height: 1000px; */
+    margin: 0px;
+  }
+ 
+ 
+ 
+ /* --------------------------------------------------------------div1--------------------------------------------------------- */
+
+
+ .div1 {
+    /* border: 3px solid green; */
+    width: 100%;
+    height: 100px;
+    /* margin-bottom: 20px; */
+  }
+  .nav_container {
+    width: 100%;
+    position: absolute;
+    display: flex;
+  }
+  .fenexo {
+    color: aliceblue;
+    font-size: large;
+    position: relative;
+    left: 20px;
+  }
+  .menu {
+    position: absolute;
+    right: 100px;
+    /* display: flex; */
+  }
+  div .l {
+    display: flex;
+    margin: 15px;
+    /* padding: 10px; */
+    /* color: aliceblue; */
+    /* font-size: large; */
+    display: inline-block;
+  }
+  .l {
+    color: rgb(31, 106, 168);
+    text-decoration: none;
+    font-size: 25px;
+  }
+  #loginicon {
+    /* width: 20px; */
+  }
+
+  a:hover {
+    color: rgb(9, 166, 228);
+  }
