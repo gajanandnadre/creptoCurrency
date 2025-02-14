@@ -181,3 +181,59 @@ body {
     .viewall1:hover {
       background-color: rgb(52, 169, 215);
     }
+     /* --------------------------------------div4----------------------------------------- */
+     .div4 {
+      width: 100%;
+      height: 600px;
+      /* border: 2px solid red; */
+      /* display: flex; */
+    }
+    .about {
+      color: white;
+    }
+    .about1 {
+      color: black;
+    }
+    .crytpoimg {
+      width: 45%;
+      text-align: center;
+      float: left;
+    }
+    .finexo {
+      padding-top: 100px;
+      width: 45%;
+      text-align: left;
+      float: left;
+      color: white;
+    }
+    .btn1 {
+      margin-left: 0px;
+    }
+    .div5 {
+      width: 100%;
+      height: 1330px;
+      /* border: 2px solid red; */
+      background-color: white;
+      margin-top: 50px;
+    }
+    .about {
+      /* color: black; */
+    }
+    .image_box {
+      width: 72%;
+      height: 280px;
+      /* border: 2px solid yellow; */
+      margin-top: 10px;
+      text-align: center;
+      margin-left: 200px;
+    }
+    .image_box > p {
+      color: black;
+    }
+    .w1img {
+      width: 90px;
+      height: 90px;
+      border: 5px solid #00204a;
+      border-radius: 100%;
+      padding: 20px;
+    }
