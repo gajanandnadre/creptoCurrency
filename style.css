@@ -237,3 +237,56 @@ body {
       border-radius: 100%;
       padding: 20px;
     }
+     /* -----------------------------------------div6---------------------------------------- */
+     .div6 {
+      width: 100%;
+      height: 500px;
+      /* border: 2px solid red; */
+      margin-top: 45px;
+    }
+    .team_contain {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+      margin-top: 50px;
+    }
+    .team1div {
+      width: 20%;
+      height: 350px;
+      /* border: 2px solid yellow; */
+      background-image: linear-gradient(to bottom, #002759, #002b64);
+      text-align: center;
+    }
+    .team_img1 {
+      width: 100px;
+      height: 100px;
+      padding: 0px;
+      border: 5px solid white;
+      border-radius: 100%;
+      margin-top: 25px;
+    }
+    .team_img1,
+    h2 {
+      color: rgb(18, 219, 234);
+    }
+    .team_img1,
+    p {
+      color: white;
+      font-size: large;
+    }
+    .div6 .icon {
+      display: flex;
+      justify-content: space-around;
+    }
+    .icon .fa-brands {
+      /* padding: 20px; */
+      margin-top: 35px;
+
+      color: white;
+    }
+    .icon .fa-brands1 {
+      font-size: 25px;
+    }
+    .icon .fa-brands1:hover {
+      color: rgb(18, 219, 234);
+    }
